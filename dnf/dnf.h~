@@ -1,0 +1,15 @@
+
+
+typedef len_type int;
+
+class Dnf {
+ 
+  Dnf(len_type len = 0) {
+
+
+  }
+
+
+  private : length;
+
+}
